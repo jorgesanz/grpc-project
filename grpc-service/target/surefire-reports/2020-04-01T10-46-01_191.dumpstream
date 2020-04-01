@@ -1,0 +1,15 @@
+# Created at 2020-04-01T10:46:15.007
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2020-04-01T10:46:15.012
+WARNING: Illegal reflective access by com.google.protobuf.UnsafeUtil (file:/C:/Users/jsanzbri/.m2/repository/com/google/protobuf/protobuf-java/3.5.1/protobuf-java-3.5.1.jar) to field java.nio.Buffer.address
+
+# Created at 2020-04-01T10:46:15.013
+WARNING: Please consider reporting this to the maintainers of com.google.protobuf.UnsafeUtil
+
+# Created at 2020-04-01T10:46:15.015
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2020-04-01T10:46:15.025
+WARNING: All illegal access operations will be denied in a future release
+
